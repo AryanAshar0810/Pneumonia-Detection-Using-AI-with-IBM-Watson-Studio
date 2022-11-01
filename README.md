@@ -1,6 +1,6 @@
-# Pneumonia Detection Using X-RAYs and using IBM Watson Studio
+# Pneumonia Detection Using AI and using IBM Watson Studio
 
-In this project we aim to create a model that will be able to detect whether the person is suffering from pneumonia or not. The main objective of this project is to help the doctors to predict the pneumonia disease more accurately using a deep learning model. The objective is not only to help the doctors but also to the patients to precisely predict pneumonia.
+In this project we aim to create a model that will be able to detect whether the person is suffering from pneumonia or not. The main objective of this project is to help the doctors to predict the pneumonia disease more accurately using a deep learning model. The objective is not only to help the doctors but also to the patients to precisely predict pneumonia. The dataset is based on X-Ray images which are used for training, testing and validation. Convolution Neural Networks have been used for training of the model using Python 3.0. The project proposes two different models - one which has been locally trained and anoother which has been trained using IBM Watson Studio. The model has been deployed using Flask and a website has been proposed for the front-end part using HTML, CSS and JavaScript.  
 
 Dataset link: - https://drive.google.com/drive/folders/1EUX0rZx_6tOT_mjiw3PzCbXQz1tTOmjr?usp=sharing
 <br>Flask Folder: - https://drive.google.com/drive/folders/1ZbUmbf0Rag0ChnaIVNBqp0HUUQvaaerP?usp=sharing
